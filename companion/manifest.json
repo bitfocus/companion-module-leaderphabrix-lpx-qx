@@ -1,0 +1,25 @@
+{
+    "id": "leaderphabrix-lpx-qx-presets",
+    "name": "leaderphabrix-lpx-qx-presets",
+    "shortname": "LPX-Qx-QxL-QxP",
+    "description": "Leaderphabrix LPX500 & Phabrix Qx/ QxL/ QxP preset loader",
+    "version": "1.0.0",
+    "license": "MIT",
+    "repository": "https://github.com/leader-europe/companion-module-leaderphabrix-lpx500",
+    "bugs": "",
+    "maintainers": [{
+            "name": "ed smith",
+            "github": "https://github.com/leader-europe"
+        }
+    ],
+    "legacyIds": [],
+    "runtime": {
+        "type": "node22",
+        "api": "nodejs-ipc",
+        "apiVersion": "0.0.0",
+        "entrypoint": "../dist/index.js"
+    },
+    "manufacturer": "Leader Phabrix",
+    "products": ["LPX","LPX500","Qx","QxL","QxP"],
+    "keywords": ["Leader","Phabrix","LeaderPhabrix","Waveform","Monitor","LPX500","Qx","QxL","QxP","Rasterizer","LPX"]
+}
