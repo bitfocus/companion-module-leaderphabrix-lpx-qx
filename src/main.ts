@@ -5,7 +5,7 @@
 // Load, create and delete user presets on LeaderPhabrix LPX500 waveform monitor 
 // or Phabrix Qx/L/P using Companion/ streamdeck buttons. 
 // Requires Rest API to be enabled on device and to be connected to same network as Companion
-// User preset buttons are automatically genereated when module has connected 
+// User preset buttons are automatically generated when module has connected 
 
 
 import {
