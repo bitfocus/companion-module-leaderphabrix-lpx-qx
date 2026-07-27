@@ -16,7 +16,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/leader-europe/companion-module-leaderphabrix-lpx-qx-presets"
+        "url": "https://github.com/leader-europe/companion-module-leaderphabrix-lpx-qx"
     },
     "engines": {
         "node": "^22.20",
