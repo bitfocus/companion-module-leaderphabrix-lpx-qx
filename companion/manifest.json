@@ -20,6 +20,6 @@
         "entrypoint": "../dist/index.js"
     },
     "manufacturer": "Leader Phabrix",
-    "products": ["LPX","LPX500","Qx","QxL","QxP"],
+    "products": ["LPX500","Qx","QxL","QxP"],
     "keywords": ["Leader","Phabrix","LeaderPhabrix","Waveform","Monitor","LPX500","Qx","QxL","QxP","Rasterizer","LPX"]
 }
