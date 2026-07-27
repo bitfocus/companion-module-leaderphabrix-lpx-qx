@@ -1,5 +1,5 @@
 {
-    "name": "leaderphabrix-lpx-qx-presets",
+    "name": "leaderphabrix-lpx-qx",
     "version": "1.0.0",
     "main": "dist/index.js",
     "type": "module",
