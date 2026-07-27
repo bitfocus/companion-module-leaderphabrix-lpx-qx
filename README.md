@@ -1,4 +1,4 @@
-# companion-module-leaderphabrix-lpx-qx-presets
+# companion-module-leaderphabrix-lpx-qx
 Companion module to load user presets on a LeaderPhabrix LPX500 & Phabrix Qx/ QxL/ QxP Waveform Monitors to be controlled from a Stream Deck
 
 See [HELP.md](./companion/HELP.md) and [LICENSE](./LICENSE)
